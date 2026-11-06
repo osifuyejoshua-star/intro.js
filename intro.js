@@ -1,5 +1,5 @@
 let name = "Joshua";
-let age = 21
+let age = 22
 let favouriteLanguage = "JavaScript";
 
 console.log("My name is " + name);
